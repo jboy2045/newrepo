@@ -1,3 +1,18 @@
+h1 {
+   width: 50%;
+   margin:0 25%;
+   text-align: center;
+}
+
+nav {
+   position: absolute;
+   right: 10px;
+}
+
 .greenf {
-	color: green;
+   color: green;
+}
+
+#big {
+   font-size: 60px;
 }
